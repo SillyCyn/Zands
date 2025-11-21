@@ -2,6 +2,6 @@
   "1" : {
     "id" : 8844039,
     "reason" : "The group has been blacklisted due to drama and controversy.",
-    "excludedusers" : {"1" : true, "2" : true} 
+    "excludedusers" : {"1" : true, "1333650459" : true} 
   }
 }
