@@ -1,1 +1,8 @@
 
+{
+  "1" : {
+    "id" : 0,
+    "reason" : "Testing reason",
+    "excludedusers" : {"1" : true, "2" : true} 
+  }
+}
