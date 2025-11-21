@@ -1,8 +1,7 @@
-
 {
   "1" : {
-    "id" : 0,
-    "reason" : "Testing reason",
+    "id" : 8844039,
+    "reason" : "The group has been blacklisted due to drama and controversy.",
     "excludedusers" : {"1" : true, "2" : true} 
   }
 }
